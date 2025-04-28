@@ -3,13 +3,6 @@
 Welcome to my cozy 3D game development project made with **Unity**!  
 Here I create game mechanics in a relaxing **ASMR programming** style — slow, focused, and without stress.
 
-## ✨ What's inside?
-
-- 🚶 Basic 3D movement system (walking, running)
-- 🎥 Smooth camera control
-- 🧹 Clean and optimized C# code
-- 🎮 Focus on a calm and cozy development atmosphere
-
 ## 📚 About the project
 
 This project is part of my journey into ASMR game development content.  
@@ -22,6 +15,11 @@ More features and mechanics will be added step-by-step.
 
 Subscribe and follow the journey on YouTube:  
 [👉 @tohirooASMR](https://www.youtube.com/@tohirooASMR)
+
+## 💬 Join our communities
+
+-  Telegram (RU): [https://t.me/gamedev_my_love](https://t.me/gamedev_my_love)  
+-  Telegram (EN): [https://t.me/gamedev_my_love_2](https://t.me/gamedev_my_love_2)
 
 ## 🤝 Contributions
 
