@@ -1,15 +1,15 @@
 # 🎮 ASMR Programming Project
 
-Welcome to my cozy 3D game development project made with **Unity**!  
-Here I create game mechanics in a relaxing **ASMR programming** style — slow, focused, and without stress.
+Welcome to my cozy repository with game development projects created with **Unity**!  
+Here I create game mechanics in a relaxing style of **ASMR programming** - slow, focused and stress-free.
 
 ## 📚 About the project
 
-This project is part of my journey into ASMR game development content.  
-I aim to build a relaxed environment where coding feels like meditation, not pressure.
+These projects are part of my journey to making games.
+I aim to create a relaxed atmosphere where coding feels like meditation rather than pressure.
 
-Feel free to explore, learn, and maybe even chill while checking the code!  
-More features and mechanics will be added step-by-step.
+Feel free to explore, learn, and maybe even relax while checking out the code!
+New features and mechanics will be added gradually.
 
 ## 📺 Watch my coding sessions
 
