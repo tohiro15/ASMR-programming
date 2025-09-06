@@ -20,7 +20,8 @@ Subscribe and follow the journey on YouTube:
 
 Telegram (RU) - https://t.me/gamedev_my_love
 Telegram (EN) - https://t.me/gamedev_my_love_2
-[![Telegram Solyanka Community](https://img.shields.io/endpoint?label=Solyanka%20community&style=for-the-badge&color=0891b2&labelColor=1c1917&url=https%3A%2F%2Ftg.sumanjay.workers.dev%2Fsolycmty)](https://t.me/solycmty)
 ## 🤝 Contributions
 
 At the moment, this is a personal project, but I’m always happy to hear feedback and ideas! 🌟
+
+[![Telegram Solyanka Community](https://img.shields.io/endpoint?label=Solyanka%20community&style=for-the-badge&color=0891b2&labelColor=1c1917&url=https%3A%2F%2Ftg.sumanjay.workers.dev%2Fsolycmty)](https://t.me/solycmty)
